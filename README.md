@@ -9,3 +9,35 @@ My self taught journey has lead me to develop a passion for learning all things 
 
 I am currently trying to learn how to code as I have had no prior experience in this field. I'm learning HTML, Python and Go at the moment when I can.
 
+# Skills
+
+<!--come back to this later on when you've finished adding your labs and projects-->
+
+# Certifications
+
+<!--add your certs here once you've completed the google one and sec1-->
+
+# My Labs
+
+<table>
+  <tr>
+    <th>Labs</th>
+    <th>Purpose</th>
+  </tr>
+  <tr>
+    <td>Kali Linux</td>
+    <td>Preloaded with both offensive and defensive tools</td>
+  </tr>
+  <tr>
+    <td>Remnux and FlareVM</td>
+    <td>Malware Analysis</td>
+  </tr>
+  <tr>
+    <td>Windows 11 and Ubuntu Sandbox</td>
+    <td>Experimenting with Malware and Viruses without risking my host machine</td>
+  </tr>
+  <tr>
+    <td>Metasploitable</td>
+    <td>Vulnerable Linux environment to learn about vulnerabilites and how to protect from and exploit them</td>
+  </tr>
+</table>

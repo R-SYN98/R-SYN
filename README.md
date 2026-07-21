@@ -22,7 +22,7 @@ I am currently trying to learn how to code as I have had no prior experience in 
 
 <table>
   <tr>
-    <th>Labs</th>
+    <th>Virtual Machines</th>
     <th>Purpose</th>
   </tr>
   <tr>

@@ -5,7 +5,7 @@ I am a cybersecurity student wanting to break into the IT industry. I got addict
 
 # Objectives and Goals
 
-My self taught journey has lead me to develop a passion for learning all things IT. My goals at the moment are to either secure a placement in an IT apprenticeship or to earn my certifications and be hired into a Security Operations Center (SOC) as a Junior Analyist. One day I would like to transition into a penetration tester role or contiune to stay in the SOC if I enjoy it.
+My self taught journey has lead me to develop a passion for learning all things IT. My goals at the moment are to either secure a placement in an IT apprenticeship or to earn my certifications and be hired into a Security Operations Center (SOC) as a Junior Analyist. One day I would like to transition into a Penetration Tester role or continue to stay in the SOC if I enjoy it.
 
 I am currently trying to learn how to code as I have had no prior experience in this field. I'm learning HTML, Python and Go at the moment when I can.
 

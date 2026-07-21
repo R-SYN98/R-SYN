@@ -1,5 +1,6 @@
 # Hello, I'm Charlie Or R-SYN.
-<a href="https://www.linkedin.com/in/charlie-fitzsimmons-88104328b/"><img src="https://img.shields.io/badge/LinkedIn-0077b5" /></a>
+<a href="https://www.linkedin.com/in/charlie-fitzsimmons-88104328b/"><img src="https://img.shields.io/badge/LinkedIn-0077b5" /></a>  <a href="https://tryhackme.com/p/R.SYN"><img src="https://img.shields.io/badge/tryhackme-red" /><a/>
+
 
 I am a cybersecurity student wanting to break into the IT industry. I got addicted to the industry from years of repairing my custom pc build and trying out online labs like HackTheBox and TryHackMe. I love solving the many problems that these industries have presented to me and I wish to continue learning more and building a solid career in this industry.
 

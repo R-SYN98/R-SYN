@@ -59,6 +59,9 @@ I am currently trying to learn how to code as I have had no prior experience in 
   </tr>
 </table>
 
+# CTF Write ups
+
+
 # Certifications
 
 <!--add your certs here once you've completed the google one and sec1-->

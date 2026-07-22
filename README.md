@@ -14,10 +14,6 @@ I am currently trying to learn how to code as I have had no prior experience in 
 
 <!--come back to this later on when you've finished adding your labs and projects-->
 
-# Certifications
-
-<!--add your certs here once you've completed the google one and sec1-->
-
 # My Labs
 
 <table>
@@ -42,3 +38,27 @@ I am currently trying to learn how to code as I have had no prior experience in 
     <td>Vulnerable Linux environment to learn about vulnerabilites and how to protect from and exploit them</td>
   </tr>
 </table>
+
+# Projects
+<table>
+  <tr>
+    <th>Projects</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>Network Traffic Analysis with Wireshark</td>
+    <td>add link soon</td>
+  </tr>
+  <tr>
+    <td>Understanding SIEM's with Wazuh</td>
+    <td>link here</td>
+  </tr>
+  <tr>
+    <td>Analysing Malware with REMnux and FlareVM</td>
+    <td>link here</td>
+  </tr>
+</table>
+
+# Certifications
+
+<!--add your certs here once you've completed the google one and sec1-->

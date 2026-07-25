@@ -47,7 +47,7 @@ I am currently trying to learn how to code as I have had no prior experience in 
   </tr>
   <tr>
     <td>Network Traffic Analysis with Wireshark</td>
-    <td>add link soon</td>
+    <td><a href="https://github.com/R-SYN98/Network-Traffic-Analysis-with-Wireshark">Link here</td>
   </tr>
   <tr>
     <td>Understanding SIEM's with Wazuh</td>

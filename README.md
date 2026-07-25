@@ -12,7 +12,10 @@ I am currently trying to learn how to code as I have had no prior experience in 
 
 # Skills
 
-<!--come back to this later on when you've finished adding your labs and projects-->
+<table>
+  <td>Network Analysis</td>
+  <td></td></td>
+</table>
 
 # My Labs
 

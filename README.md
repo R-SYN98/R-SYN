@@ -57,6 +57,14 @@ I am currently trying to learn how to code as I have had no prior experience in 
     <td>Analysing Malware with REMnux and FlareVM</td>
     <td>link here</td>
   </tr>
+  <tr>
+    <td>Learning Honeypots with T-Pot</td>
+    <td>link here</td>
+  </tr>
+    <tr>
+    <td>Coding my own Tools with Python3</td>
+    <td>link here</td>
+  </tr>
 </table>
 
 # CTF Write ups

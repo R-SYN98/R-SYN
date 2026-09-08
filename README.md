@@ -1,4 +1,4 @@
-# Hello, I'm Charlie Or R-SYN.
+# Hello, I'm Charlie.
 <a href="https://www.linkedin.com/in/charlie-fitzsimmons-88104328b/"><img src="https://img.shields.io/badge/LinkedIn-0077b5" /></a>  <a href="https://tryhackme.com/p/R.SYN"><img src="https://img.shields.io/badge/tryhackme-red" /><a/>
 
 
@@ -13,8 +13,14 @@ I am currently trying to learn how to code as I have had no prior experience in 
 # Skills
 
 <table>
-  <td>Network Analysis</td>
-  <td></td></td>
+    <tr>
+    <td>Network Analysis</td>
+    <td>Application Services</td>
+    <td>Malware Analysis</td>
+    <td>Network Protocols</td>
+    <td>Network Traffic Analysis</td>
+      <td>Web Application Security</td>
+      <td>Wireless Communications</td>
 </table>
 
 # My Labs
@@ -73,6 +79,7 @@ I am currently trying to learn how to code as I have had no prior experience in 
 # CTF Write ups
 
 
-# Certifications
+# Certifications & Badges
 
+<img src="https://images.credly.com/size/340x340/images/47f94746-a150-4f91-abc1-733b68b95504/blob" style="width:200px;height:200px;"> <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" style="width:200px;height:200px;">
 <!--add your certs here once you've completed the google one and sec1-->

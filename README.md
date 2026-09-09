@@ -1,5 +1,5 @@
 # Hello, I'm Charlie.
-<a href="https://www.linkedin.com/in/charlie-fitzsimmons-88104328b/"><img src="https://img.shields.io/badge/LinkedIn-0077b5" /></a>  <a href="https://tryhackme.com/p/R.SYN"><img src="https://img.shields.io/badge/tryhackme-red" /><a/>
+<a href="https://www.linkedin.com/in/charlie-fitzsimmons-88104328b/"><img src="https://img.shields.io/badge/LinkedIn-0077b5" /></a>  <a href="https://tryhackme.com/p/R.SYN"><img src="https://img.shields.io/badge/tryhackme-red" /><a/> <a href="https://www.credly.com/users/charlie-fitzsimmons.012b5cec"><img src="https://img.shields.io/badge/Credly%20-%20green">
 
 
 I am a 1st Line IT Support Apprentice wanting to become a Cybersecurity Analyst. I got addicted to the industry from years of repairing my custom pc build and trying out online labs like HackTheBox and TryHackMe. I love solving the many problems that these industries have presented to me and I wish to continue learning more and building a solid career in this industry.

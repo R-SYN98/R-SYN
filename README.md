@@ -78,6 +78,7 @@ I am currently trying to learn how to code as I have had no prior experience in 
 
 # CTF Write ups
 
+<a href="https://github.com/R-SYN98/CTF-Write-ups/tree/main"> Use this link to access my write ups.
 
 # Certifications & Badges
 
